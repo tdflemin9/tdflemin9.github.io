@@ -43,21 +43,21 @@
                 },
                 {
                     "type": "team",
-                    "title": "Make Miss",
+                    "title": "Team",
                     "className": "team-select",
                     "id": "team",
-                    "blueTeamName": "Make",
-                    "orangeTeamName": "Miss",
+                    "blueTeamName": "Home",
+                    "orangeTeamName": "Away",
                     "checked": "blue-team-select"
                 },
                 {
                     "type": "player",
-                    "title": "Team Number",
+                    "title": "Player",
                     "id": "player-input",
                     "defaultValue": ""
                 },
                 {
-                    "type": "Auton Teleop",
+                    "type": "shot-type",
                     "title": "Type",
                     "id": "shot-type",
                     "options": [
