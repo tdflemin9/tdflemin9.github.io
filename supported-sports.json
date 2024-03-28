@@ -46,8 +46,8 @@
                     "title": "Team",
                     "className": "team-select",
                     "id": "team",
-                    "blueTeamName": "Home",
-                    "orangeTeamName": "Away",
+                    "blueTeamName": "Make",
+                    "orangeTeamName": "Miss",
                     "checked": "blue-team-select"
                 },
                 {
