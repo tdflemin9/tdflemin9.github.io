@@ -52,7 +52,7 @@
                 },
                 {
                     "type": "player",
-                    "title": "Player",
+                    "title": "Team Number",
                     "id": "player-input",
                     "defaultValue": ""
                 },
