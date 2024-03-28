@@ -43,7 +43,7 @@
                 },
                 {
                     "type": "team",
-                    "title": "Make-Miss",
+                    "title": "Make Miss",
                     "className": "team-select",
                     "id": "team",
                     "blueTeamName": "Make",
@@ -57,12 +57,12 @@
                     "defaultValue": ""
                 },
                 {
-                    "type": "Auton/Teleop",
+                    "type": "Auton Teleop",
                     "title": "Type",
                     "id": "shot-type",
                     "options": [
                         { "value": "Auton", "selected": true },
-                        { "value": "Teleop" },
+                        { "value": "Teleop" }
                     ]
                 },
                 { "type": "x", "title": "X", "id": "x", "noWidget": true },
