@@ -43,28 +43,26 @@
                 },
                 {
                     "type": "team",
-                    "title": "Team",
+                    "title": "Make-Miss",
                     "className": "team-select",
                     "id": "team",
-                    "blueTeamName": "Home",
-                    "orangeTeamName": "Away",
+                    "blueTeamName": "Make",
+                    "orangeTeamName": "Miss",
                     "checked": "blue-team-select"
                 },
                 {
                     "type": "player",
-                    "title": "Player",
+                    "title": "Team Number",
                     "id": "player-input",
                     "defaultValue": ""
                 },
                 {
-                    "type": "shot-type",
+                    "type": "Auton/Teleop",
                     "title": "Type",
                     "id": "shot-type",
                     "options": [
-                        { "value": "Shot", "selected": true },
-                        { "value": "Goal" },
-                        { "value": "Block" },
-                        { "value": "Miss" }
+                        { "value": "Auton", "selected": true },
+                        { "value": "Teleop" },
                     ]
                 },
                 { "type": "x", "title": "X", "id": "x", "noWidget": true },
