@@ -1,10 +1,10 @@
 const cfgAppearance = {
     // team colors
-    blueTeam: "rgba(53, 171, 169, 0.7)",
-    orangeTeam: "rgba(234, 142, 72, 0.7)",
+    blueTeam: "rgba(0, 250, 0, 0.7)",
+    orangeTeam: "rgba(250, 0, 0, 0.7)",
     greyTeam: "rgba(170, 170, 170, 0.7)",
-    blueTeamSolid: "rgba(53, 171, 169, 1)",
-    orangeTeamSolid: "rgba(234, 142, 72, 1)",
+    blueTeamSolid: "rgba(0, 250, 0, 1)",
+    orangeTeamSolid: "rgba(250, 0, 0, 1)",
     greyTeamSolid: "rgba(170, 170, 170, 1)",
     // transition durations
     newRowDuration: 650,
