@@ -203,12 +203,12 @@ export function heatMap() {
         let bgColor;
         switch (colorName) {
             case "blueTeam":
-                bgColor = `rgba(53, 171, 169, ${lowOpacity})`;
-                color = `rgba(53, 171, 169, ${highOpacity})`;
+                bgColor = `rgba(0, 200, 0, ${lowOpacity})`;
+                color = `rgba(0, 200, 0, ${highOpacity})`;
                 break;
             case "orangeTeam":
-                bgColor = `rgba(234, 142, 72, ${lowOpacity})`;
-                color = `rgba(234, 142, 72, ${highOpacity})`;
+                bgColor = `rgba(200, 0, 0, ${lowOpacity})`;
+                color = `rgba(200, 0, 0, ${highOpacity})`;
                 break;
             default:
                 bgColor = `rgba(170, 170, 170, ${lowOpacity})`;
