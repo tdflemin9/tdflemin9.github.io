@@ -61,8 +61,10 @@
                     "title": "Type",
                     "id": "shot-type",
                     "options": [
-                        { "value": "Auton", "selected": true },
-                        { "value": "Teleop" }
+                        { "value": "Shot", "selected": true },
+                        { "value": "Goal" },
+                        { "value": "Block" },
+                        { "value": "Miss" }
                     ]
                 },
                 { "type": "x", "title": "X", "id": "x", "noWidget": true },
