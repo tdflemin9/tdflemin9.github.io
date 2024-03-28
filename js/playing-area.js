@@ -26,7 +26,7 @@ function setUpPlayingArea() {
         .attr("clip-path", "url(#clipBorder)")
         .attr(
             "transform",
-            "translate(10,10) scale(" + resize + "," + resize + ")"
+            "translate(0,0) scale(1,1)"
         )
         .insert("svg:g", "#outside-perimeter")
         .attr("id", "dots");
